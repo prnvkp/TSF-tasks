@@ -7,7 +7,7 @@ The philosophy of the S.P.A.R.K.S. Foundation is grounded in the fact that learn
 Studies show that our nation’s employers are asking for more employees who have the technical skills to help them compete in today’s economy.  We need more engineers, chemists, computer programmers, healthcare professionals, etc. and we must start with our youth to inspire them now to pursue STEM learning and careers later on.
 
 ## TASKS
-Task 1 - Prediction using Supervised ML
+### Task 1 - Prediction using Supervised ML
 Predict the score of an student based on the no. of study hours.
 ● This is a simple linear regression task as it involves just 2 variables.
 ● Data can be found at http://bit.ly/w-data
