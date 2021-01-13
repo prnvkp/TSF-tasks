@@ -9,5 +9,5 @@ Studies show that our nation’s employers are asking for more employees who hav
 ## TASKS
 ### Task 1 - Prediction using Supervised ML
 Predict the score of an student based on the no. of study hours.
-** This is a simple linear regression task as it involves just 2 variables.
-** Data can be found at http://bit.ly/w-data
+* This is a simple linear regression task as it involves just 2 variables.
+* Data can be found at http://bit.ly/w-data
